@@ -24,4 +24,4 @@ The second tidy data set corresponds to the table where the mean of each variabl
   ## Code book
   A description of the data sets obtained and its variables can be viewed in the following file:
   
-  [*code_book.txt*](https://github.com/andresfpc/CleaningDataCourseProject/code_book.txt)
+  [*CodeBook.md*](https://github.com/andresfpc/CleaningDataCourseProject/CodeBook.md)
